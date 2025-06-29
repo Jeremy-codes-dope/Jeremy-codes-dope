@@ -63,7 +63,7 @@ I am especially interested in collaborating on:
 <h2>🙏 Let's Connect</h2>
 <p>
   <a href="https://www.linkedin.com/in/ermias-mehreteab-066126331/">LinkedIn</a> |
-  <a href="mailto:[your-email]">Email</a> |
+  <a href="mailto:[ermiasmehreteab026@gmail.com]">Email</a> |
   <a href="https://github.com/jeremy-codes-dope">GitHub</a>
 </p>
 
